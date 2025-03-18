@@ -83,12 +83,12 @@ const Contact = () => {
                   {
                     icon: <Mail className="h-5 w-5 text-construction-orange" />,
                     title: 'Email',
-                    content: 'kontakt@harmonybuild.pl'
+                    content: 'contact@hub-bud.site'
                   },
                   {
                     icon: <MapPin className="h-5 w-5 text-construction-orange" />,
                     title: 'Adres',
-                    content: 'ul. Budowlana 123, 00-001 Warszawa'
+                    content: 'Łódź'
                   },
                   {
                     icon: <Clock className="h-5 w-5 text-construction-orange" />,
