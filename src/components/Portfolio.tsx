@@ -4,25 +4,25 @@ import { ArrowLeft, ArrowRight } from 'lucide-react';
 
 const portfolioItems = [
   {
-    image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1605276374857-68c8732b421a?auto=format&fit=crop&w=800&q=80",
     title: "Osiedle Słoneczne",
     category: "Kompleksowa budowa",
     description: "Realizacja budowy 12 domów jednorodzinnych w zabudowie szeregowej."
   },
   {
-    image: "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1555652652-62946e307471?auto=format&fit=crop&w=800&q=80",
     title: "Apartamentowiec Marina",
     category: "Budowa i wykończenie",
     description: "Budowa i kompleksowe wykończenie apartamentów o podwyższonym standardzie."
   },
   {
-    image: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?auto=format&fit=crop&w=800&q=80",
     title: "Rezydencja Parkowa",
     category: "Wykończenie wnętrz",
     description: "Prace wykończeniowe w luksusowej rezydencji, w tym instalacje i dekoracje."
   },
   {
-    image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1617434108848-6a1e827124ef?auto=format&fit=crop&w=800&q=80",
     title: "Biurowiec Nowogrodzka",
     category: "Instalacje",
     description: "Wykonanie kompleksowych instalacji elektrycznych i hydraulicznych w biurowcu klasy A."

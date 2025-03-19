@@ -157,8 +157,8 @@ const Services = () => {
             </div>
             <div className="hidden md:block">
               <img 
-                src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" 
-                alt="Inwestycja budowlana" 
+                src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80" 
+                alt="Inwestycja budowlana w Polsce" 
                 className="rounded-lg shadow-xl"
               />
             </div>

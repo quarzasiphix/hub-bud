@@ -17,8 +17,8 @@ const About = () => {
           <div>
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=800&q=80" 
-                alt="Ekipa budowlana przy pracy" 
+                src="https://images.unsplash.com/photo-1617434108848-6a1e827124ef?auto=format&fit=crop&w=800&q=80" 
+                alt="Polska ekipa budowlana przy pracy" 
                 className="rounded-lg shadow-xl w-full h-auto object-cover"
               />
               <div className="absolute -bottom-6 -right-6 bg-white rounded-lg shadow-lg p-4 hidden md:block">
