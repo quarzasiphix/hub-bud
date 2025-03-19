@@ -9,7 +9,7 @@ const About = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-construction-navy mb-4">Kim jesteśmy</h2>
           <p className="text-construction-gray text-lg">
-            Harmony Build to zespół doświadczonych specjalistów oferujących kompleksowe usługi budowlane dla inwestorów i deweloperów.
+            HubBud to zespół doświadczonych specjalistów oferujących kompleksowe usługi budowlane dla inwestorów i deweloperów.
           </p>
         </div>
 
