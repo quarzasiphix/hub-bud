@@ -10,7 +10,7 @@ const Hero = () => {
         <div 
           className="w-full h-full bg-cover bg-center"
           style={{ 
-            backgroundImage: 'url(https://images.unsplash.com/photo-1566137765599-d9bae135e622?auto=format&fit=crop&w=2000&q=80)',
+            backgroundImage: 'url(https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?auto=format&fit=crop&w=2000&q=80)',
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-r from-construction-navy/80 to-black/60"></div>
