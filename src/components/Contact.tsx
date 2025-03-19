@@ -78,7 +78,7 @@ const Contact = () => {
                   {
                     icon: <Phone className="h-5 w-5 text-construction-orange" />,
                     title: 'Telefon',
-                    content: '+48 123 456 789'
+                    content: '+48 664 946 333'
                   },
                   {
                     icon: <Mail className="h-5 w-5 text-construction-orange" />,
@@ -88,7 +88,7 @@ const Contact = () => {
                   {
                     icon: <MapPin className="h-5 w-5 text-construction-orange" />,
                     title: 'Adres',
-                    content: 'Łódź'
+                    content: 'Łódź 91-045'
                   },
                   {
                     icon: <Clock className="h-5 w-5 text-construction-orange" />,

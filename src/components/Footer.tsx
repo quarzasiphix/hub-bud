@@ -71,8 +71,9 @@ const Footer = () => {
           <div>
             <h4 className="font-bold text-lg mb-4">Kontakt</h4>
             <address className="not-italic text-gray-300 space-y-2">
-              <p>Łódź</p>
-              <p>Tel: +48 123 456 789</p>
+              <p>Hubert Baleja</p>
+              <p>Łódź 91-045</p>
+              <p>Tel: +48 664 946 333</p>
               <p>Email: contact@hub-bud.site</p>
             </address>
           </div>
