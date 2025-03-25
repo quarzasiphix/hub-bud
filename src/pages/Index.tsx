@@ -7,6 +7,8 @@ import Services from '../components/Services';
 import Portfolio from '../components/Portfolio';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
+import StructuredData from '../components/SEO/StructuredData';
+import { Helmet } from 'react-helmet-async';
 
 const Index = () => {
   useEffect(() => {
@@ -32,6 +34,12 @@ const Index = () => {
 
   return (
     <div className="min-h-screen">
+      <Helmet>
+        <title>HubBud - Kompleksowe usługi budowlane | Łódź</title>
+        <meta name="description" content="HubBud oferuje profesjonalne usługi budowlane, wykończenia wnętrz i instalacje. Kompleksowa obsługa budowlana dla inwestorów i deweloperów w Łodzi i okolicach." />
+        <link rel="canonical" href="https://hub-bud.site/" />
+      </Helmet>
+      <StructuredData />
       <Header />
       <Hero />
       <About />
