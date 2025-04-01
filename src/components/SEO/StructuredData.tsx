@@ -5,9 +5,9 @@ const StructuredData = () => {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "HubBud",
+    "name": "HubBud - Firma budowlana w Łodzi",
     "image": "https://hub-bud.site/og-image.png",
-    "description": "Kompleksowe usługi budowlane dla inwestorów i deweloperów. Budujemy przyszłość z pasją i profesjonalizmem.",
+    "description": "Profesjonalna firma budowlana w Łodzi oferująca kompleksowe usługi budowlane dla inwestorów i deweloperów. Budujemy przyszłość Łodzi z pasją i profesjonalizmem.",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "",
@@ -52,34 +52,34 @@ const StructuredData = () => {
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
-      "name": "Usługi Budowlane",
+      "name": "Usługi Budowlane w Łodzi",
       "itemListElement": [
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "Kompleksowa budowa"
+            "name": "Kompleksowa budowa w Łodzi"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "Wykończenia wnętrz"
+            "name": "Wykończenia wnętrz w Łodzi"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "Instalacje elektryczne"
+            "name": "Instalacje elektryczne w Łodzi"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
             "@type": "Service",
-            "name": "Instalacje hydrauliczne"
+            "name": "Instalacje hydrauliczne w Łodzi"
           }
         }
       ]

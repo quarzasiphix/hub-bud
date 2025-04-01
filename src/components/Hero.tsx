@@ -20,10 +20,10 @@ const Hero = () => {
       <div className="container-custom relative z-10 pt-20">
         <div className="max-w-3xl text-white">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight animate-fade-in">
-            Pełna obsługa budowlana dla inwestorów i deweloperów
+            Profesjonalna firma budowlana w Łodzi
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200 animate-fade-in" style={{animationDelay: '0.2s'}}>
-            Od znalezienia działki, przez budowę, aż po kompleksowe wykończenie. Profesjonalne usługi budowlane na każdym etapie inwestycji.
+            HubBud - kompleksowe usługi budowlane w Łodzi i województwie łódzkim. Od znalezienia działki, przez budowę, aż po wykończenie. Pełna obsługa dla inwestorów i deweloperów na rynku łódzkim.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 animate-fade-in" style={{animationDelay: '0.4s'}}>
             <a 

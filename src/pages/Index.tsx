@@ -35,8 +35,8 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       <Helmet>
-        <title>HubBud - Kompleksowe usługi budowlane | Łódź</title>
-        <meta name="description" content="HubBud oferuje profesjonalne usługi budowlane, wykończenia wnętrz i instalacje. Kompleksowa obsługa budowlana dla inwestorów i deweloperów w Łodzi i okolicach." />
+        <title>HubBud - Profesjonalna firma budowlana w Łodzi | Kompleksowe usługi budowlane</title>
+        <meta name="description" content="HubBud to renomowana firma budowlana w Łodzi oferująca profesjonalne usługi budowlane, wykończenia wnętrz i instalacje. Kompleksowa obsługa budowlana dla inwestorów i deweloperów w Łodzi i województwie łódzkim." />
         <link rel="canonical" href="https://hub-bud.site/" />
       </Helmet>
       <StructuredData />
