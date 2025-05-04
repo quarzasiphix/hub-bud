@@ -23,7 +23,7 @@ const Hero = () => {
             Profesjonalna firma budowlana w Łodzi
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200 animate-fade-in" style={{animationDelay: '0.2s'}}>
-            HubBud - kompleksowe usługi budowlane w Łodzi i województwie łódzkim. Od znalezienia działki, przez budowę, aż po wykończenie. Pełna obsługa dla inwestorów i deweloperów na rynku łódzkim.
+            Alpinald - kompleksowe usługi budowlane w Łodzi i województwie łódzkim. Od znalezienia działki, przez budowę, aż po wykończenie. Pełna obsługa dla inwestorów i deweloperów na rynku łódzkim.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 animate-fade-in" style={{animationDelay: '0.4s'}}>
             <a 

@@ -5,8 +5,8 @@ const StructuredData = () => {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "HubBud - Firma budowlana w Łodzi",
-    "image": "https://hub-bud.site/og-image.png",
+    "name": "Alpinald - Firma budowlana w Łodzi",
+    "image": "https://alpinald.site/og-image.png",
     "description": "Profesjonalna firma budowlana w Łodzi oferująca kompleksowe usługi budowlane dla inwestorów i deweloperów. Budujemy przyszłość Łodzi z pasją i profesjonalizmem.",
     "address": {
       "@type": "PostalAddress",
@@ -21,12 +21,12 @@ const StructuredData = () => {
       "longitude": "19.4560"
     },
     "telephone": "+48 664 946 333",
-    "email": "contact@hub-bud.site",
-    "url": "https://hub-bud.site",
+    "email": "contact@alpinald.site",
+    "url": "https://alpinald.site",
     "sameAs": [
-      "https://www.facebook.com/hubbud",
-      "https://www.instagram.com/hubbud",
-      "https://www.linkedin.com/company/hubbud"
+      "https://www.facebook.com/alpinald",
+      "https://www.instagram.com/alpinald",
+      "https://www.linkedin.com/company/alpinald"
     ],
     "openingHoursSpecification": {
       "@type": "OpeningHoursSpecification",

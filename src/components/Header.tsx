@@ -35,7 +35,7 @@ const Header = () => {
             "text-2xl font-bold font-heading",
             isScrolled ? "text-construction-navy" : "text-white"
           )}>
-            Hub<span className="text-construction-orange">Bud</span>
+            Alpine<span className="text-construction-orange">ald</span>
           </span>
         </a>
 

@@ -9,7 +9,7 @@ const About = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-construction-navy mb-4">Kim jesteśmy</h2>
           <p className="text-construction-gray text-lg">
-            HubBud to doświadczona firma budowlana z Łodzi oferująca kompleksowe usługi budowlane dla inwestorów i deweloperów na rynku łódzkim.
+            Alpinald to doświadczona firma budowlana z Łodzi oferująca kompleksowe usługi budowlane dla inwestorów i deweloperów na rynku łódzkim.
           </p>
         </div>
 
